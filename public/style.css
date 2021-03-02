@@ -1,0 +1,288 @@
+body{
+    margin: 0px;
+  
+    
+}
+
+
+
+.nav-delivery{
+    margin-top: -1px;
+    padding-top: 7px;
+    padding: 6px;
+    text-align: center;
+    background-color: rgba(57, 57, 57, 1);
+    color: white;
+    
+}
+
+
+
+
+.nav-alpha{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 69px;
+    font-style: italic;
+    
+    padding: 19px;
+    background-color: rgba(57, 57, 57, 0.058);
+    color: rgba(57, 57, 57, 1);
+}
+
+
+
+.fal:hover{
+    color: #2d9bb7 !important;
+
+}
+
+
+
+.navbar {
+    background-color: rgba(57, 57, 57, 1) !important;
+    margin-top: 20px;
+    
+}
+
+.nav-link, .navbar-brand {
+    color: white !important;
+    
+}
+
+
+
+
+
+.nav-link:hover{
+    color: #2d9bb7 !important;
+}
+
+
+
+.input-btns{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    /* background-color: rgba(57, 57, 57, 0.035); */
+    
+}
+
+
+
+
+
+.trend{
+    text-align: center;
+    margin-top: 20px;
+    font-style: oblique;
+
+}
+
+
+
+
+.card-div{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+.card{
+    margin: 30px;
+}
+
+
+
+.footer{
+    background-color: rgba(57, 57, 57, 0.075);
+    /* color: white; */
+    text-decoration: none;
+     display: flex;
+     justify-content: space-between;
+     flex-wrap: wrap;
+     padding: 50px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-style: initial;
+      
+     border: none;
+     border-top: 1px solid  grey;
+
+
+
+}
+
+
+.about-heading{
+    /* font-size: 26px; */
+    font-style: oblique;
+}
+
+
+.aunchor{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    font-style: oblique;
+}
+
+
+.footer-child{
+  margin-top: 30px;
+}
+
+
+
+
+.Alpha-Appearl{
+    text-align: center;
+    background-color: rgba(57, 57, 57, 1);
+    color: #2d9bb7;
+    /* color: white; */
+    font-size: 40px;
+    padding: 19px;
+    margin: 0;
+
+
+}
+
+
+
+
+
+
+
+
+
+/* nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn */
+
+
+
+
+
+
+/* Add to cart */
+
+.product-detail {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+    flex-wrap: wrap;
+}
+
+.detail-al h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.product-detail>div {
+    margin: 20px;
+}
+
+#qty-inp {
+    width: 100px;
+    text-align: center;
+    height: 40px;
+    
+}
+
+.qty-btn-s {
+    width: 50px;
+    height: 40px;
+    border: none;
+    border: 1px gray solid;
+}
+
+.size>button {
+    width: 50px;
+    margin-bottom: 10px;
+    border: none;
+    box-shadow: 0px 0px 5px gray;
+}
+
+.size>button:focus {
+    border: 2px black solid;
+}
+
+.add-buy-div>button {
+    margin-top: 20px;
+    display: block;
+    width: 100%;
+    height: 40px;
+    border: none;
+    border: 1px solid #03a196;
+}
+
+.add-buy-div a {
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+.add-buy-div>button:hover {
+    background-color: #03a196; 
+    color: white !important; 
+}
+
+.add-buy-div>button:hover a {
+    color: white !important;
+}
+
+
+/* form Page */
+
+
+.book-order {
+    margin: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.book-order p {
+    margin-top: 15px;
+}
+
+.form-1 {
+    margin-right: 40px;
+}
+
+.add-product hr {
+    width: 100%;
+}
+
+.total-mul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.book-order-detail {
+    width: 100%;
+}
+
+.inp-full {
+    width: 100%;
+}
+
+
+form input {
+    margin-bottom: 15px;
+}
+
+form button {
+    float: right;
+    width: 150px;
+    height: 50px;
+    background-color: #16395b;
+    color: white;
+    border: none;
+    box-shadow: 0px 0px 5px gray;
+    border-radius: 5px;
+}
+
+form button:hover {
+    background-color: #0f273f;
+}
